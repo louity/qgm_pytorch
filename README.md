@@ -1,6 +1,6 @@
 # qgm_pytorch
 
-PyTorch implementation of multi-layer quasi-geostrophic model on rectangular domain with solid boundaries, with parameterizatition described in the paper [https://arxiv.org/abs/2204.13914](Modified hyper-viscosity for coarse-resolution ocean models).
+PyTorch implementation of multi-layer quasi-geostrophic model on rectangular domain with solid boundaries, with parameterizatition described in the paper (Modified hyper-viscosity for coarse-resolution ocean models)[https://arxiv.org/abs/2204.13914].
 
 ## Requirements
 
