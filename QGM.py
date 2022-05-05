@@ -313,8 +313,6 @@ if __name__ == "__main__":
 
     if param['nx'] == 97:
         qg_multilayer.p = torch.from_numpy(np.load('./p_380yrs_HRDS.npy')).to(param['device'])
-    else:
-        qg_multilayer.p = torch.from_numpy(np.load('./p_506yrs_HR.npy')).to(param['device'])
     qg_multilayer.compute_q_over_f0_from_p()
 
 
