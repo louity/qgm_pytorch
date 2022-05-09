@@ -52,3 +52,7 @@ If you use this code, please cite
   copyright = {Creative Commons Attribution 4.0 International}
 }
 ```
+
+## Acknowledgments
+
+Louity acknowledges the support of the ERC EU project 856408-STUOD for the development of this package.
